@@ -1,8 +1,6 @@
 ### Hi there, I'm - aka [Priyanshu Singh](https://priyanshu1stportfolio.netlify.app/) 👋
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Psingh12354/&title=Profile%20Views)
-
-![Portfolio Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://priyanshu1stportfolio.netlify.app/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Psingh12354/&title=Profile%20Views
 
 ## I'm a Student at Chandigarh University Pursuing Bachleors in Information Technology!!
 
