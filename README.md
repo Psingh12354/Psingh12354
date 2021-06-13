@@ -12,9 +12,8 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/priyanshu-singh-a035a218a/">
-  <img align="left" alt="ketan.s li" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
+  <img align="left" alt="" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
-
 <br />
 
 ### Languages and Tools:
