@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/priyanshu-singh-a035a218a/">
   <img align="left" alt="" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
+<a href="https://www.hackerrank.com/priyanshu_706811">
+  <img align="left" alt="ketan | CodeSandbox" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />
+</a>
 <br />
 
 ### Languages and Tools:
