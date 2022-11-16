@@ -2,7 +2,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Psingh12354/&title=Profile%20Views)
 
-## I'm a Student at Chandigarh University Pursuing Bachleors in Information Technology!!
+## I'm a Graduated Student of Chandigarh University in BE Information Technology!!
 
 - 🔭 I’m working on **_Projects_**
 - 🌱 I’m filing **_Patents_**
