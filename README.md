@@ -11,8 +11,9 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/priyanshu-singh-a035a218a/">
-  <img align="left" alt="LinkedIn" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
+  <img align="left" alt="" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
+
 <a href="mailto:18bet1057.it@gmail.com">
   <img align="left" alt="Gmail" width="21px" src="https://github.com/Psingh12354/Psingh12354/blob/master/gmail.svg">
 </a>
