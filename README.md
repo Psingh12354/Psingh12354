@@ -1,28 +1,27 @@
-### Hi there, I'm - aka [Priyanshu Singh](https://priyanshu1stportfolio.netlify.app/) 👋
+### Hi there, I'm [Priyanshu Singh](https://priyanshu1stportfolio.netlify.app/) 👋
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Psingh12354/&title=Profile%20Views)
 
 ## I'm a Graduated Student of Chandigarh University in BE Information Technology!!
 
-- 🔭 I’m working on **_Projects_**
-- 👯 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on **Big Data and Machine Learning projects**
+- 👯 I’m eager to learn **new technologies and best practices in software development**
+- 🥅 2023 Goals: **Contribute more to Open Source projects and collaborate with global developers**
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/priyanshu-singh-a035a218a/">
-  <img align="left" alt="" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
+  <img align="left" alt="LinkedIn" width="21px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />
 </a>
-<a href="mailto: 18bet1057.it@gmail.com">
-  <img align="left" alt="" width="21px" src="https://github.com/Psingh12354/Psingh12354/blob/master/gmail.svg">
- </a>
+<a href="mailto:18bet1057.it@gmail.com">
+  <img align="left" alt="Gmail" width="21px" src="https://github.com/Psingh12354/Psingh12354/blob/master/gmail.svg">
+</a>
 <a href="https://www.hackerrank.com/priyanshu_706811">
-  <img align="left" alt="ketan | CodeSandbox" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />
+  <img align="left" alt="HackerRank" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />
 </a>
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
@@ -35,5 +34,3 @@
 
 <br />
 <br />
-
-
