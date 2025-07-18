@@ -5,10 +5,6 @@
   <a href="https://www.linkedin.com/in/priyanshu-singh-a035a218a/">💼 LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Psingh12354&title=Profile%20Views" alt="Profile Views" />
-</p>
-
 ---
 
 🎓 **Graduated from Chandigarh University** — B.E. in Information Technology  
